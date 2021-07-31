@@ -65,3 +65,35 @@
 		
 	  - Getting rendered HTML or images
 
+* Filter resources 
+
+ - Filter by resource type
+
+* Block requests
+
+* Change User-Agent
+
+  <img width="500" alt="" src="https://i.imgur.com/Ze3TQJh.png">
+
+# Application
+
+* View, edit, and delete cookies
+
+  <img width="500" alt="" src="https://i.imgur.com/kygyy4z.png">
+
+* View and edit local storage
+
+  <img width="500" alt="" src="https://i.imgur.com/zoz4qjs.png">
+
+* View Cache data
+
+  <img width="500" alt="" src="https://i.imgur.com/XfUR0Ye.png">
+  
+# Other
+
+* Override geolocation
+
+  <img width="500" alt="" src="https://i.stack.imgur.com/drnYN.jpg">
+
+
+
