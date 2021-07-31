@@ -42,19 +42,19 @@
 
 * Log network activity
 
-* Simulate a slower network connection #
+* Simulate a slower network connection
 
   <img width="500" alt="" src="https://i.imgur.com/eK7TN3m.png">
 
-  * Capture screenshots
+* Capture screenshots
 
   <img width="500" alt="" src="https://i.imgur.com/P17GPC8.png">
 
-  * Inspect a resource's details
+* Inspect a resource's details
 
   <img width="500" alt="" src="https://i.imgur.com/OTgRqii.png">
 
-   - Getting HTTP headers
-   - Getting Status code
-   - Getting Request Method
-   - Getting POST data
+	- Getting HTTP headers
+	- Getting Status code
+	- Getting Request Method
+	- Getting POST data
