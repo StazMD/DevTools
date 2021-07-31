@@ -10,11 +10,22 @@
 
 * Gettin element's xpath
 * Reorder elements in DOM
-* Elements states
+* Inspect elements states
 
   <img width="500" alt="" src="https://i.imgur.com/xrxPvqF.png">
 
-* DOM Break-Points
+* Catch DOM Break-Points
 
   <img width="500" alt="" src="https://miro.medium.com/max/700/1*vnO0doBJCldT-rlwC4AncQ.png">
 
+* Inspecting Console tab to catch errors
+
+* Manipulate with DOM via JS in Console tab
+
+* Inspect server files
+
+  <img width="500" alt="" src="https://i.imgur.com/ScrvWsk.png">
+
+* Make the DOM changes made locally persistent
+
+  <img width="500" alt="" src="https://miro.medium.com/max/1400/0*GrginpbRBO0OYJhx">
