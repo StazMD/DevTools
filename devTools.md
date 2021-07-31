@@ -56,12 +56,12 @@
 
 	###### Headers
 
-		- Getting HTTP headers
-		- Getting Status code
-		- Getting Request Method
-		- Getting POST data
+	  - Getting HTTP headers
+	  - Getting Status code
+	  - Getting Request Method
+	  - Getting POST data
 
 	###### Preview
 		
-		- Getting rendered HTML or images
+	  - Getting rendered HTML or images
 
