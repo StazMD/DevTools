@@ -1,8 +1,10 @@
 * Device simulators
 * Remote debug Android devices
+* Editing HTML using the inspector tool:
 
-<img width="1000" alt="" src="https://developer-chrome-com.imgix.net/image/BrQidfK9jaQyIHwdw91aVpkPiib2/NIeeTMc8eH6hDiA3IX0Y.png?w=845">
+<img width="1000" alt="" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/techblog/live-editing-html-and-css-with-chrome-devtools/edit-as-html.gif">
 
-* CSS, HTML changes in Elements tab
+* Editing CSS from the “Elements” Tab:
 
-<img width="1000" alt="" src="https://i.imgur.com/I2crPH4.png">
+<img width="1000" alt="" src="https://d2slcw3kip6qmk.cloudfront.net/marketing/techblog/live-editing-html-and-css-with-chrome-devtools/position-absolute.gif">
+
