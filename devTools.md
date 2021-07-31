@@ -2,4 +2,4 @@
 * Remote debug Android devices
 * CSS, HTML changes in Elements tab
 
-<img width="200" alt="" src="https://habrastorage.org/getpro/habr/upload_files/439/e42/5d0/439e425d06fba049a925ecefd3f96603.png">
+<img width="500" alt="" src="https://habrastorage.org/getpro/habr/upload_files/439/e42/5d0/439e425d06fba049a925ecefd3f96603.png">
