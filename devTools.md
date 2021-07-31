@@ -54,7 +54,14 @@
 
   <img width="500" alt="" src="https://i.imgur.com/OTgRqii.png">
 
+###### Headers
+
 	- Getting HTTP headers
 	- Getting Status code
 	- Getting Request Method
 	- Getting POST data
+
+###### Preview
+	
+	- Getting rendered HTML or images
+
