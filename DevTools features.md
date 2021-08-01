@@ -25,7 +25,6 @@
 # Console
 
 * Inspecting Console tab to catch errors
-
 * Manipulate with DOM via JS in Console tab
 
 # Sources
@@ -41,7 +40,6 @@
 # Network
 
 * Log network activity
-
 * Simulate a slower network connection
 
   <img width="500" alt="" src="https://i.imgur.com/eK7TN3m.png">
@@ -66,10 +64,9 @@
 	  - Getting rendered HTML or images
 
 * Filter resources
- - Filter by resource type
+  - Filter by resource type1
 
 * Block requests
-
 * Change User-Agent
 
   <img width="500" alt="" src="https://i.imgur.com/Ze3TQJh.png">
