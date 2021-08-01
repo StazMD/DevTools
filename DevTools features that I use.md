@@ -1,6 +1,3 @@
-# DevTools features that I use in daily work
-
-
 # Mobile
 * Device simulators
 * Remote debug Android devices
@@ -28,6 +25,7 @@
 # Console
 
 * Inspecting Console tab to catch errors
+
 * Manipulate with DOM via JS in Console tab
 
 # Sources
@@ -43,6 +41,7 @@
 # Network
 
 * Log network activity
+
 * Simulate a slower network connection
 
   <img width="500" alt="" src="https://i.imgur.com/eK7TN3m.png">
@@ -66,10 +65,12 @@
 		
 	  - Getting rendered HTML or images
 
-* Filter resources1 
+* Filter resources 
+
  - Filter by resource type
 
 * Block requests
+
 * Change User-Agent
 
   <img width="500" alt="" src="https://i.imgur.com/Ze3TQJh.png">
@@ -87,7 +88,7 @@
 * View Cache data
 
   <img width="500" alt="" src="https://i.imgur.com/XfUR0Ye.png">
-
+  
 # Other
 
 * Override geolocation
