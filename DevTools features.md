@@ -65,8 +65,7 @@
 		
 	  - Getting rendered HTML or images
 
-* Filter resources 
-
+* Filter resources
  - Filter by resource type
 
 * Block requests
